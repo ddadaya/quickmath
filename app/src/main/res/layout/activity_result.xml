@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".result">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="338dp"
+        android:layout_height="73dp"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="167dp"
+        android:gravity="center"
+        android:text="К сожалению, а может и к счастью, игра окончена, твой счет:"
+        android:textColor="#673AB7"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/score"
+        android:layout_width="108dp"
+        android:layout_height="74dp"
+        android:layout_marginStart="148dp"
+        android:layout_marginTop="248dp"
+        android:gravity="center"
+        android:text="13"
+        android:textColor="#673AB7"
+        android:textSize="40sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

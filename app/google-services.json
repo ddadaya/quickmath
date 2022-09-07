@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "28885465488",
+    "firebase_url": "https://lastquick-33b2d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lastquick-33b2d",
+    "storage_bucket": "lastquick-33b2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28885465488:android:cad8c3c02051f9ad8d5b15",
+        "android_client_info": {
+          "package_name": "com.example.quickmath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28885465488-531tpv265pnqh87h33osr30i2hipkne3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbkBLH6DpQv52J0idIcWQJd3y0c9PRmuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28885465488-531tpv265pnqh87h33osr30i2hipkne3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
